@@ -11,28 +11,34 @@ th {
 }
 
 h1 {
-    width: 500px;
-    font-size: 40px;
-    text-align: center;
-    color:blue
- 
+    font-family: Arial;
+ font-size: 40px;
+ text-align: center;
+ width: 500px;
+ color: blue;
 }
 h2 {
-    font-size: 40px;
-    font-weight: normal;
-    color:green
+    font-family: Arial;
+font-size: 30px;
+text-align: center;
+width: 500px;
+color: green;
+font-weight: normal;
 }
 p {
-    font: bold italic 40px/50px/60px Arial
+font-family: Arial;
+text-align: justify;
+font-size: 18px;
+text-indent: 50px;
+width: 550px;
+line-height: 1.6;
 }
-p{
-    text-indent: 50px;
+ul {
+    font-family: Arial;
     text-align: justify;
-    width: 400px;
-    
-
+    font-size: 16px;
+    width: 500px;
 }
-a {
-    text-decoration: none;
-    color: red;
+i {
+    color: green;
 }
